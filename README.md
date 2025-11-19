@@ -1,4 +1,4 @@
-# Phyton Proyecto 1
+# Python Proyecto 1
 Por Pablo Herrero y Carlos Sibilio
 
 ## Descripción del proyecto
