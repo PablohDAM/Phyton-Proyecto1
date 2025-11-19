@@ -28,15 +28,30 @@ Controla el flujo principal del programa, mostrando un menú iterativo con opcio
 ## Cómo ejecutar el programa
 Ejecuta el archivo Python en una terminal o consola compatible. El menú se mostrará y podrás interactuar escribiendo las opciones deseadas.
 
-## Capturas de pantalla recomendadas para el informe técnico
+## Capturas de pantalla del funcionamiento
 
 - Captura del menú principal en ejecución: mostrar las opciones disponibles para el usuario.
+
+    ![alt text](screenshots/menu-principal.png)
+
 - Captura del proceso de añadir un alumno: entradas realizadas y confirmación de registro.
-- Captura mostrando la lista de alumnos registrados tras añadir varios.
+
+    ![alt text](screenshots/Crear-alumno.png)
+
+- Captura mostrando la lista de alumnos registrados tras añadir uno.
+
+    ![alt text](screenshots/mostrar-alumno.png)
+
 - Captura del proceso de búsqueda con resultados encontrados.
+
+    ![alt text](screenshots/busqueda-alumno.png)
+
 - Captura del proceso de búsqueda sin resultados (mensaje de no encontrado).
 
-*Añade aquí las imágenes o imágenes incrustadas según el formato que uses para el informe.*
+    ![alt text](screenshots/buscar-alumno-no.png)
+
+
+
 
 ## Tecnologías utilizadas
 - Python 3
